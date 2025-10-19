@@ -1,4 +1,4 @@
-# Portafolio del Curso EST312 – Análisis Estadístico Computacional
+# Portafolio del Curso EST312 – Estadístic Computacional
 
 **Autor:** Velásquez Quispe Waldir Yeison  
 **Carrera:** Estadística e Informática  
